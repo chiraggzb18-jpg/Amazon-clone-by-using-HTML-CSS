@@ -33,11 +33,6 @@ c) Layout design
 
 📸 Screenshot -
 
-<img width="1883" height="913" alt="Screenshot 2026-03-10 191304" src="https://github.com/user-attachments/assets/831c38f7-c2cd-45aa-abb0-d6edfee4dc0c" />
-
-<img width="1871" height="903" alt="Screenshot 2026-03-10 191339" src="https://github.com/user-attachments/assets/9b746b87-723c-48d5-ac7e-e2f728a8453c" />
-
-<img width="1884" height="910" alt="Screenshot 2026-03-10 191354" src="https://github.com/user-attachments/assets/80d1ccd8-6bec-4c6b-9a20-14fa2d382c6b" />
 
 🔮 Future Improvements -
 
